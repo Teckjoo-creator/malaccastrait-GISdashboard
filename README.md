@@ -24,11 +24,9 @@ _Sistem Papan Pemuka Risikan Maritim Selat Melaka_
 
 | No. | Nama | Matriks |
 |-----|------|---------|
-| 1   | *(Nama Ahli 1)* | *(No. Matrik)* |
-| 2   | *(Nama Ahli 2)* | *(No. Matrik)* |
-| 3   | *(Nama Ahli 3)* | *(No. Matrik)* |
+| 1   | *TAN TECK JOO* | *A22BE0385* |
+| 2   | *TAN QIAO YING* | *A22BE0384* |
 
->  *Kemaskini jadual di atas dengan nama dan nombor matrik ahli kumpulan sebenar.*
 
 ---
 
